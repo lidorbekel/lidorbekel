@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/lidor-bekel/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
+      <a href="https://lidorbekel1@gmail.com" target="blank"><img align="center"
+      src="https://img.icons8.com/doodle/38/000000/gmail-new.png"
+      alt="adam pithen wala" height="30" width="40" /></a>
       <a href="https://www.facebook.com/lidor.bekel" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-          <a href="https://lidorbekel1@gmail.com" target="blank"><img align="center"
-      src="https://img.icons8.com/doodle/38/000000/gmail-new.png"
       alt="adam pithen wala" height="30" width="40" /></a>
 </a>
 </p>
