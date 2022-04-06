@@ -5,7 +5,7 @@
     </div>
     <h3 align="left">I'm Lidor Bekel</h3>
 <h3 align="left">Full Stack Developer 🚀</h3>
-<h3 align="left">Let's connect:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/lidor-bekel/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -18,6 +18,5 @@
       alt="adam pithen wala" height="30" width="40" /></a>
 </a>
 </p>
-
 <br>
 </div>
