@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/lidorbekel/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
 <!--
 **lidorbekel/lidorbekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
