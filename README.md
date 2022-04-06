@@ -1,7 +1,7 @@
 <div>
     <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
     <div align=left>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=250&height=50&lines=Hi+there+%F0%9F%91%8B;I'm+Lidor+Bekel" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=280&height=50&lines=Hi+there+%F0%9F%91%8B;I'm+Lidor+Bekel" alt="Headline" />
     </div>
 <h3 align="left">Let's connect:</h3>
 <p align="left">
