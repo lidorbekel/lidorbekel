@@ -1,6 +1,6 @@
 <div>
     <div align=left>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=475&height=50&lines=Hi+there+I'm+Lidor+Bekel+%F0%9F%91%8B;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=475&height=50&lines=Hi+there+%F0%9F%91%8B;I'm+Lidor+Bekel" alt="Headline" />
     </div>
 <h3 align="left">Let's connect:</h3>
 <p align="left">
