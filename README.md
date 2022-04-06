@@ -1,5 +1,4 @@
 <div>
-   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
     <div align=left>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=475&height=50&lines=Hi+there+I'm+Lidor+Bekel+%F0%9F%91%8B;" alt="Headline" />
     </div>
@@ -16,6 +15,7 @@
       alt="adam pithen wala" height="30" width="40" /></a>
 </a>
 </p>
+   <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
 </div>
